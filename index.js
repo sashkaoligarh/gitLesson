@@ -1,2 +1,2 @@
 console.log('hello');
-console.log('merge');
+console.log('pull conflict');
