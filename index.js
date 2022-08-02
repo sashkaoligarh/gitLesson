@@ -1,2 +1,2 @@
 console.log('hello');
-console.log('pull request');
+console.log('pull conflict');
